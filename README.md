@@ -1,10 +1,10 @@
 # Portfolio Optimization and Backtesting Framework
 
-## Efficient Frontier
+<h2>Efficient Frontier</h2>
 
-![Efficient Frontier](images/efficient_frontier.png)
-
-## Overview
+<p align="center">
+  <img src="images/efficient_frontier.png" width="700">
+</p>
 
 This project implements a portfolio optimization and backtesting framework using **Modern Portfolio Theory (MPT)**, **Monte Carlo Simulation**, and historical stock market data. The objective is to construct portfolios that maximize risk-adjusted returns while demonstrating the benefits of diversification and quantitative portfolio management.
 
@@ -129,17 +129,23 @@ The optimized portfolio outperformed an equal-weight benchmark during the testin
 
 ## Visualizations
 
-### Efficient Frontier
+<h2>Efficient Frontier</h2>
 
-![Efficient Frontier](images/efficient_frontier.png)
+<p align="center">
+  <img src="images/efficient_frontier.png" width="700">
+</p>
 
-### Backtesting Performance
+<h2>Backtesting Performance</h2>
 
-![Backtesting Performance](images/backtesting_performance.png)
+<p align="center">
+  <img src="images/backtesting_performance.png" width="700">
+</p>
 
-### Portfolio Drawdown
+<h2>Portfolio Drawdown</h2>
 
-![Portfolio Drawdown](images/portfolio_drawdown.png)
+<p align="center">
+  <img src="images/drawdown.png" width="700">
+</p>
 
 ---
 
