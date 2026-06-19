@@ -144,7 +144,7 @@ The optimized portfolio outperformed an equal-weight benchmark during the testin
 <h2>Portfolio Drawdown</h2>
 
 <p align="center">
-  <img src="images/drawdown.png" width="700">
+  <img src="images/portfolio_drawdown.png" width="700">
 </p>
 
 ---
